@@ -1,1 +1,1 @@
-Hosting website through using aws serives.
+Hosting website through using aws servises
