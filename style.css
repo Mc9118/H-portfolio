@@ -50,6 +50,9 @@ text-align:center;
 color:#38bdf8;
 }
 
+a:link{
+color:white;
+}
 .hero button{
 margin-top:20px;
 padding:10px 20px;
