@@ -50,9 +50,12 @@ text-align:center;
 color:#38bdf8;
 }
 
-a:link{
-color:white;
+.hero button{
+    border-radius: 10px 20px 20px 10px;
+
 }
+
+
 .hero button{
 margin-top:20px;
 padding:10px 20px;
@@ -77,7 +80,12 @@ margin-top:30px;
 .skill{
 background:#1e293b;
 padding:20px;
-border-radius:8px;
+border-radius:19px;
+
+}
+.skill:hover{
+    background:#38bdf8;
+    color:yellow;
 }
 
 .projects{
