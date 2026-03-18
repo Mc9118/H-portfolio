@@ -67,12 +67,17 @@ cursor:pointer;
 .about,.skills,.projects,.contact{
 padding:60px;
 text-align:center;
+color: white;
 }
 
 
 .contact:hover,
    a:hover{
-    color: rgb(68, 68, 194);
+    color: black;
+}
+
+.contact ,h2{
+    color: white;
 }
 .skill-box{
 display:grid;
